@@ -1,0 +1,3 @@
+2022-09-10 08:02:09,752 INFO com.telegrambot.TelegramBotApplication [main] Starting TelegramBotApplication using Java 17.0.1 on DESKTOP-0PVL8QE with PID 14344 (D:\StritCover Version 2\TelegramBot\target\classes started by 14157 in D:\StritCover Version 2\TelegramBot)
+2022-09-10 08:02:09,752 INFO com.telegrambot.TelegramBotApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-09-10 08:02:12,346 INFO com.telegrambot.TelegramBotApplication [main] Started TelegramBotApplication in 3.599 seconds (JVM running for 5.702)
